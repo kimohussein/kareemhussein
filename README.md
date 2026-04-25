@@ -47,7 +47,7 @@
 ## 🌍 Languages
 
 - Arabic (Native)  
-- English (Fluent)  
+- English (Intermediate)  
 
 ---
 
@@ -58,8 +58,8 @@
 
 ## 📫 Contact Me
 
-- LinkedIn: (حطه هنا)  
-- GitHub: (اللنك بتاعك)  
+- LinkedIn: ( )  
+- GitHub: ( )  
 
 ---
 
