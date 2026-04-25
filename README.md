@@ -1,7 +1,60 @@
 # kareemhussein
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Animated Text</title>
+
+<style>
+body {
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  font-family: Arial;
+  flex-direction: column;
+}
+
+.text {
+  font-size: 40px;
+  border-right: 3px solid white;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+}
+
+.first {
+  animation: typing1 2s steps(12) forwards;
+}
+
+.second {
+  animation: typing2 2s steps(12) forwards;
+  animation-delay: 2.5s;
+}
+
+@keyframes typing1 {
+  from { width: 0 }
+  to { width: 12ch }
+}
+
+@keyframes typing2 {
+  from { width: 0 }
+  to { width: 12ch }
+}
+</style>
+</head>
+
+<body>
+
+<div class="text first">Hello Coders</div>
+<div class="text second">I am Karim</div>
+
+</body>
+</html> <br>
 
 # Hi 👋 I'm Karim Hussein
 
